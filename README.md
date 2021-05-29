@@ -16,4 +16,4 @@ Using Python and Pandas, I created a summary DataFrame of ride-sharing data for 
 
 
 # Summary:
-Based on the results, I have three recommendations for Pyber. First, don't conduct business in rural city types. They only generate a small number of rides and and cary a high cost per ride. Second, 
+Based on the results, I have three recommendations for Pyber. First, don't conduct business in rural city types. They only generate a small number of rides and and cary a high cost per ride. Second, focus most of the business in urban cities as they generate much a higher number of rides.
