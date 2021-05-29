@@ -6,14 +6,14 @@ Using Python and Pandas, I created a summary DataFrame of ride-sharing data for 
 # Results:
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-## Pybar DataFrame:
+### Pybar DataFrame:
 
 <img width="661" alt="Pyber Date Frame" src="https://user-images.githubusercontent.com/82424250/120052374-b089b780-bfea-11eb-916a-dca3240856de.png">
 
-## Sums of Fares by Week
+### Sums of Fares by Week DataFrame
 <img width="284" alt="Sum of Fares by Week" src="https://user-images.githubusercontent.com/82424250/120052383-b54e6b80-bfea-11eb-8d0e-d22a98f5c75c.png">
 
-## Total Fare by City Type (Rural, Suburban, Urban)
+## Total Fare Line Chart 
 ![TotalFarebyCityType](https://user-images.githubusercontent.com/82424250/120052386-bc757980-bfea-11eb-865b-6a0aea13e6a5.png)
 
 
