@@ -8,7 +8,7 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 
 ### Pybar DataFrame:
 
-<img width="661" alt="Pyber Date Frame" src="https://user-images.githubusercontent.com/82424250/120052374-b089b780-bfea-11eb-916a-dca3240856de.png">
+<img width="615" alt="Pyber Data" src="https://user-images.githubusercontent.com/82424250/120052580-9a302b80-bfeb-11eb-9766-a911a66f68e7.png">
 
 ### Sums of Fares by Week DataFrame
 <img width="284" alt="Sum of Fares by Week" src="https://user-images.githubusercontent.com/82424250/120052383-b54e6b80-bfea-11eb-8d0e-d22a98f5c75c.png">
